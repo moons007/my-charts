@@ -3,11 +3,11 @@ entries:
   demo:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-10-18T16:34:55.6176058+09:00
+    created: 2018-11-13T14:42:34.1173344+09:00
     description: A Helm chart for Kubernetes
     digest: 0430850006a36ca725051a745af4de9876066375a8ea1dcc4a24d76d0b200a57
     name: demo
     urls:
     - https://moons007.github.io/my-charts/stable/demo-0.1.0.tgz
     version: 0.1.0
-generated: 2018-10-18T16:34:55.6166058+09:00
+generated: 2018-11-13T14:42:34.1093477+09:00
